@@ -1,4 +1,6 @@
 # R3-SoftwareTask1-AbdullahArif
+Link to TinkerCad: https://www.tinkercad.com/things/gy2rz5yaNro 
+
 Two 7-segment displays connected to an arduino, displaying an input from a potentiometer with the range 0-99.
 ![image](https://user-images.githubusercontent.com/92419884/137069023-e6051c69-9b6b-4933-ac8d-75729665dbe3.png)
 
